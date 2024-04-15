@@ -1,5 +1,5 @@
 package redimensionar;
-
+//comentario de prueba hecho desde gitHub
 import paquete_Scanner.PedirDatos;
 import java.util.Arrays;
 import java.util.Scanner;
